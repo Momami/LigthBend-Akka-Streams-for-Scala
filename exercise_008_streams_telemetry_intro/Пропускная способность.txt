@@ -1,0 +1,11 @@
+16ms run - 65 ops
+12ms run 1 async - 87 ops
+10ms run 2 async - 99 ops
+
+---
+0ms run - 1056 ms
+16ms run - 16145 ms
+14ms run - 13984 ms
+12 ms run - 11742 ms
+14 ms tail run - 14650 ms
+10 ms 2 asyncs run - 10304 ms
